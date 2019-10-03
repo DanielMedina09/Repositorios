@@ -1,0 +1,48 @@
+
+
+.CAJA_1{
+    float: left;
+    background:linear-gradient(red 5% ,white);
+    margin: 10px;
+    height: 300px;
+    width: 48%;
+}
+.CAJA_2{
+    float: left;
+    background:linear-gradient(pink 5% ,white);
+    margin: 10px 5px 10px 10px;
+    height: 300px;
+    width: 48%;
+}
+
+.ENTRADA_1{
+    margin-top: 10%;
+    margin-left: 25%;
+    font-size: 25px;
+    text-align: center;
+}
+
+.ENTRADA_2{
+    margin-top: 10%;
+    margin-left: 25%;
+    font-size: 25px;
+    text-align: center;
+}
+
+.boton_enviar{
+    margin-left: 100px;
+    float: left;
+    height: 42px;
+    width: 120px;
+}
+
+.boton_leer{
+    float: left;
+    margin-left: 148px;
+    height: 42px;
+    width: 120px;
+}
+
+.conten_boton{
+    margin-top: 50px;
+}

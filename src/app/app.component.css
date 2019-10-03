@@ -1,0 +1,47 @@
+.c_pantalla{
+  height: 600px;
+  width: 100%;
+  background:linear-gradient(white 80%,silver);
+}
+
+.n_pagina{
+    width: 100%;
+    height: 20%;
+    background:linear-gradient(aqua ,white);
+}
+
+.menu_pagina{
+    width: 100%;
+    height: 10%;
+    background:linear-gradient(yellow 70%,orange);
+}
+
+.texto{
+    padding-top:15px;
+    font-family: Verdana;
+    text-align: center;
+    font-size:50px;
+}
+
+.S_1{
+    float: left;
+    width: 33.3%;
+    height: 100%;
+    font-size:18px;
+}
+
+.S_1:hover {
+    background:linear-gradient(orange 70% ,red);
+    font-weight: bold;
+}
+
+.texto_menu{
+    text-align: center;
+    font-family: Verdana;
+}
+
+.ventana_pricipal{
+    width: 100%;
+    height: 100%;
+    background:linear-gradient(white 50%,silver);
+}
